@@ -1,0 +1,5 @@
+Building BitMinima
+
+See doc/build-*.md for instructions on building bitminimad,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitMinima.
