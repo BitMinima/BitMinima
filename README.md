@@ -39,7 +39,7 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 	<li>Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.</li>
 	<li>No ICO!</li>
 	<li>Safety - BitMinima based on the source code Bitcoin Core v0.12 
-<br>Learn more - <a href="https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures" target=_blank>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
+<br>Learn more - <a href="https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures">https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
 </ul>
 
 <br><br>
