@@ -43,7 +43,7 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 </ul>
 
 <br><br>
-<b>Wallet:</b>
+<b>Wallet:</b><br>
 Windows installer - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip">https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip</a><br>
 For Linux - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z">https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z</a>
 <br><br>
