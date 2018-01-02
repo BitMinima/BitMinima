@@ -33,11 +33,11 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 </pre>
 
 
-Philosophy and idea
-*SHA256d - Good compatibility with Bitcoin world.
-*Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.
-*No ICO!
-*Safety - BitMinima based on the source code Bitcoin Core v0.12 <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a>
+Philosophy and idea.<br>
+*SHA256d - Good compatibility with Bitcoin world.<br>
+*Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.<br>
+*No ICO!<br>
+*Safety - BitMinima based on the source code Bitcoin Core v0.12 <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a><br>
 
 
 This is an experimental software.
