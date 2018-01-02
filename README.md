@@ -39,14 +39,15 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 	<li>Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.</li>
 	<li>No ICO!</li>
 	<li>Safety - BitMinima based on the source code Bitcoin Core v0.12 
-<br>Learn more - <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
+<br>Learn more - <a href="https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures" target=_blank>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
 </ul>
 
 <br><br>
 <b>Wallet:</b>
-Windows Installer - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip">https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip</a><br>
+Windows installer - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip">https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip</a><br>
 For Linux - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z">https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z</a>
 <br><br>
+
 
 This is an experimental software.
 BitMinima Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
