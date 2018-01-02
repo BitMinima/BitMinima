@@ -19,10 +19,10 @@ RPC Port					4332
 
 </pre>
 
-<b>It should result in:</b>
+It should result in:
 
 <pre>
-  				Bitcoin 		BitMinima* 		Litecoin
+  				Bitcoin 		<b>BitMinima*<br>	Litecoin
 Block Every 			10 min 			2,5 min 		2,5 min
 Difficulty Re-target 		two weeks 		3,5 days 		3,5 days
 Maximum Coins 			~21 Million 		~21 Million 		~84 Million
