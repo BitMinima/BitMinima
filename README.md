@@ -22,7 +22,7 @@ RPC Port					4332
 It should result in:
 
 <pre>
-  				Bitcoin 		<b>BitMinima*<br>	Litecoin
+  				Bitcoin 		BitMinima*		Litecoin
 Block Every 			10 min 			2,5 min 		2,5 min
 Difficulty Re-target 		two weeks 		3,5 days 		3,5 days
 Maximum Coins 			~21 Million 		~21 Million 		~84 Million
@@ -31,6 +31,14 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 90% Coins 			~2023 			~2020 			~2023
 
 </pre>
+
+
+Philosophy and idea
+*SHA256d - Good compatibility with Bitcoin world.
+*Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.
+*No ICO!
+*Safety - BitMinima based on the source code Bitcoin Core v0.12 <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a>
+
 
 This is an experimental software.
 BitMinima Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
