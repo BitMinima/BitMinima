@@ -1,4 +1,4 @@
-<img src=/src/qt/res/icons/bitcoin.ico>
+<img src="https://github.com/BitMinima/BitMinima/raw/master/src/qt/res/icons/bitcoin.ico">
 
 BitMinima - is a free and decentralized transfer system on blockchain.
 Based on the source code of Bitcoin but some key parameters are taken from Litecoin Core.
@@ -16,6 +16,20 @@ Initial reward					50
 
 Port						4333
 RPC Port					4332
+
+</pre>
+
+<b>It should result in:</b>
+
+<pre>
+  				Bitcoin 		BitMinima* 		Litecoin
+Block Every 			10 min 			2,5 min 		2,5 min
+Difficulty Re-target 		two weeks 		3,5 days 		3,5 days
+Maximum Coins 			~21 Million 		~21 Million 		~84 Million
+Rewards Decrease 		210,000 (Blocks) 	210,000 (Blocks) 	840,000 (Blocks)
+New Rewards Era 		4 Years 		1 Year 			4 Years
+90% Coins 			~2023 			~2020 			~2023
+
 </pre>
 
 This is an experimental software.
@@ -24,23 +38,8 @@ information or see https://opensource.org/licenses/MIT.
 
 For build see [INSTALL](INSTALL).
 
-<pre>
-This software and services is not recommended for use in these countries:
-Burundi
-Congo
-Cuba
-Iran
-Iraq
-Lebanon
-Libya
-North Korea
-Russian
-Sudan
-Syria
-Venezuela
-Yemen
-Zimbabwe
-</pre>
+This software and services is not recommended for use in these countries: Burundi, Congo, Cuba, Iran, Iraq, Lebanon, Libya, North Korea, Russian, Sudan, Syria, Venezuela, Yemen, Zimbabwe.
+
 
 
 
