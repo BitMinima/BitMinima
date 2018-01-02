@@ -32,13 +32,21 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 
 </pre>
 
+<br><br>
+<b>Philosophy and idea.</b>
+<ul>
+	<li>SHA256d - Good compatibility with Bitcoin world.</li>
+	<li>Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.</li>
+	<li>No ICO!</li>
+	<li>Safety - BitMinima based on the source code Bitcoin Core v0.12 
+<br>Learn more - <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
+</ul>
 
-Philosophy and idea.<br>
-*SHA256d - Good compatibility with Bitcoin world.<br>
-*Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.<br>
-*No ICO!<br>
-*Safety - BitMinima based on the source code Bitcoin Core v0.12 <a href=https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures>https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a><br>
-
+<br><br>
+<b>Wallet:</b>
+Windows Installer - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip">https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip</a><br>
+For Linux - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z">https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z</a>
+<br><br>
 
 This is an experimental software.
 BitMinima Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
