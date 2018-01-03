@@ -37,7 +37,8 @@ New Rewards Era 		4 Years 		1 Year 			4 Years
 <ul>
 	<li>Blocks - 4X as compared to Bitcoin. No evangelical restrictions on the size of the block in the future.</li>
 	<li>SHA256d - Good compatibility with Bitcoin world.</li>
-	<li>No ICO!</li>
+	<li>No ICO! 90% of coins will be created in the first four years.
+Great value of initial mining.</li>
 	<li>Safety - BitMinima based on the source code Bitcoin Core v0.12 
 <br>Learn more - <a href="https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures">https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exposures</a></li>
 </ul>
