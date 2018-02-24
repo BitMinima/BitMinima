@@ -47,7 +47,7 @@ Great value of initial mining.</li>
 <b>Wallet:</b>
 <ul>
 <li>Windows installer - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/BitMinima-0.12-win-setup.zip">BitMinima-0.12-win-setup.zip</a></li>
-<li>For Linux - <a href="https://github.com/BitMinima/BitMinima/releases/download/v0.12/linux-x86_64-bin.7z">linux-x86_64-bin.7z</a></li>
+<li>For Linux - <a href="https://github.com/BitMinima/BitMinima/releases">here</a></li>
 </ul>
 <br><br>
 
