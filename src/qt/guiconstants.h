@@ -48,7 +48,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "BitMinima"
-#define QAPP_ORG_DOMAIN "bitminima.info"
+#define QAPP_ORG_DOMAIN "bitminima"
 #define QAPP_APP_NAME_DEFAULT "BitMinima-Qt"
 #define QAPP_APP_NAME_TESTNET "BitMinima-Qt-testnet"
 
