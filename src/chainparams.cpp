@@ -100,7 +100,7 @@ public:
 		vAlertPubKey = ParseHex("04a219ee431af534ee0f5fb42786bcae838704bfe769b941d0212a8d27bd9d473c036fc6af3264edb752fb925b3be23c454f73ebeb871a5fefb926c6c27b65b487");
         // nvAlertPubKey = ParseHex("04fc9702847840aaf195de8442ebecedf5b095cdbb9bc716bda9110971b28a49e0ead8564ff0db22209e0374782c093bb899692d524e9d6a6956e7c5ecbcd68284");
 		nDefaultPort = 4333;
-        nMaxTipAge = 24 * 60 * 60;
+        nMaxTipAge = 10 * 365 * 24 * 60 * 60;
         nPruneAfterHeight = 100000;
 
         genesis = CreateGenesisBlock(1504000006, 1018065857, 0x1d00ffff, 1, 50 * COIN);
@@ -111,10 +111,15 @@ public:
 
         // vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
         // vSeeds.clear(); //! Regtest mode doesn't have any DNS seeds.
-		vSeeds.push_back(CDNSSeedData("www1.bitminima.info", "www2.bitminima.info"));
-		vSeeds.push_back(CDNSSeedData("www3.bitminima.info", "www4.bitminima.info"));
-		vSeeds.push_back(CDNSSeedData("nota.mooo.com", "nota.freemyip.com"));
-		vSeeds.push_back(CDNSSeedData("note1.duckdns.org", ""));
+		vSeeds.push_back(CDNSSeedData("a.nota.usa.cc", "a.nota.igg.biz"));
+		vSeeds.push_back(CDNSSeedData("a.nota.cloudns.cc", "nota.mooo.com"));
+		vSeeds.push_back(CDNSSeedData("b.nota.usa.cc", "b.nota.igg.biz"));
+		vSeeds.push_back(CDNSSeedData("b.nota.cloudns.cc", "c.nota.usa.cc"));
+		vSeeds.push_back(CDNSSeedData("c.nota.igg.biz", "c.nota.cloudns.cc"));
+		vSeeds.push_back(CDNSSeedData("nota.freemyip.com", "note1.duckdns.org"));
+		vSeeds.push_back(CDNSSeedData("d.nota.usa.cc", "d.nota.igg.biz"));
+		vSeeds.push_back(CDNSSeedData("d.nota.cloudns.cc", "nota.usa.cc"));
+		vSeeds.push_back(CDNSSeedData("nota.cloudns.cc", ""));
 		
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
@@ -134,8 +139,10 @@ public:
 
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
-            ( 0, uint256S("0x00000000e6c97348abe7fee934076c28300cc2c69c4b6dc22ae2f125d3d4fc39")),
-            1504000006, // * UNIX timestamp of last checkpoint block
+            ( 0, uint256S("0x00000000e6c97348abe7fee934076c28300cc2c69c4b6dc22ae2f125d3d4fc39"))
+            ( 16000, uint256S("0x00000000017a85defcb043714806b5515bb94a3e590ec724daf6bac197ef4908"))
+			( 16100, uint256S("0x0000000000a8c5dbb6f99bd4710065d5780b863c40b9cc8552cb5dc9d0244e0e")),
+			1515053872, // * UNIX timestamp of last checkpoint block
             0,   		// * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
             60000.0     // * estimated number of transactions per day after checkpoint
